@@ -1,5 +1,10 @@
-t=tan
-b=brown
-K=black
-G=green
-b=blue
+t: "tan"
+b: "brown"
+K: "black"
+G: "green"
+B: "blue"
+o: "orange"
+p: "pink"
+P: "purple"
+s: "sky blue"
+r: "red
