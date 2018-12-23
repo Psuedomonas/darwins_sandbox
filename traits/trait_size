@@ -1,4 +1,4 @@
-s=small
-m=medium
-L=large
-h=huge
+s: "small"
+m: "medium"
+l: "large"
+h: "huge"
